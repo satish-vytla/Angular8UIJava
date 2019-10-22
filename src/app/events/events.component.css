@@ -1,0 +1,12 @@
+.example-card {
+    max-width: 400px;
+    /* align-content: center; */
+    /* justify-content: center; */
+    margin: 0 auto;
+    /* position: absolute; */
+  }
+
+  .flexone{
+    display: flex;
+    content: center;
+  }
